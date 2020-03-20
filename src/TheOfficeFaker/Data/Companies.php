@@ -4,7 +4,6 @@ namespace TheOfficeFaker\Data;
 
 class Companies implements DataInterface
 {
-
     public static function get(): array
     {
         return [
@@ -22,4 +21,5 @@ class Companies implements DataInterface
             'Serenity by Jan',
         ];
     }
+
 }

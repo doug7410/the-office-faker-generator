@@ -50,4 +50,5 @@ class MaleNames implements DataInterface
             'Billy Merchant',
         ];
     }
+
 }

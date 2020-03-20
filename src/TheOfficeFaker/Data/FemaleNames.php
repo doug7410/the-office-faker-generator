@@ -4,7 +4,6 @@ namespace TheOfficeFaker\Data;
 
 class FemaleNames implements DataInterface
 {
-
     public static function get(): array
     {
         return [
@@ -33,4 +32,5 @@ class FemaleNames implements DataInterface
             'Deborah Shoshlefski',
         ];
     }
+
 }
